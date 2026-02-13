@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FinansAsistan - Gelişmiş Gelir Gider Takibi",
+  "description": "AI destekli, sesli komut özellikli ve piyasa analizi yapabilen kapsamlı finansal takip uygulaması.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
